@@ -1,7 +1,7 @@
 fx_version 'adamant'
 game 'gta5'
 
-author 'Alex'
+author 'Alga'
 
 client_scripts {
     'client.lua'
